@@ -2,5 +2,6 @@
   "name": "@artmizu/github-action",
   "devDependencies": {
     "changelogen": "^0.3.5"
-  }
+  },
+  "version": "1.0.0"
 }
