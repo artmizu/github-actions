@@ -1,3 +1,4 @@
 {
-  "name": "@artmizu/github-action"
+  "name": "@artmizu/github-action",
+  "version": "1.0.0"
 }
