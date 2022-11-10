@@ -1,4 +1,3 @@
 {
-  "name": "github-action",
-  "packageManager": "yarn@3.2.4"
+  "name": "@artmizu/github-action"
 }
