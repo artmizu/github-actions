@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/artmizu/github-actions/compare/v1.0.1...v1.1.0) (2022-11-10)
+
+
+### Features
+
+* some feature ([8e18d6c](https://github.com/artmizu/github-actions/commit/8e18d6cd69b2313c5b7d5f582cb6dd785900b5b1))
+
 ## [1.0.1](https://github.com/artmizu/github-actions/compare/v1.0.0...v1.0.1) (2022-11-10)
 
 
