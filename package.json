@@ -1,6 +1,9 @@
 {
   "name": "@artmizu/github-action",
   "packageManager": "pnpm@7.14.2",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "changelogen": "^0.3.5"
   },
